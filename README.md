@@ -62,12 +62,9 @@ sudo ufw delete deny 23
 ```
 ---
 
-### 📸 Screenshots Included:
+### 📸 Screenshot Included:
 
-- `ufw_status_before.png` – Status before enabling firewall
-- `ufw_rules_applied.png` – Rules after blocking and allowing ports
-- `ufw_test_telnet.png` – Telnet blocked test (optional)
-- `ufw_remove_rule.png` – After removing the Telnet block
+- `firewall.png` – Firewall configuration steps
 ----
 
 ### 🔐 Security Takeaways:
